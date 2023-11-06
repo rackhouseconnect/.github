@@ -1,3 +1,4 @@
+![rackhouse-connect-logo-240px](./rackhouse-connect-logo-240px.png)
 
 
 # [RackHouse Connect](https://www.rackhouseconnect.com/) 
