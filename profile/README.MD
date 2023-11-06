@@ -1,4 +1,4 @@
-![rackhouse-connect-logo-240px](./rackhouse-connect-logo-240px.png)
+![rackhouse-connect-logo-240px](https://raw.githubusercontent.com/rackhouseconnect/.github/main/profile/rackhouse-connect-logo-240px.png)
 
 
 # [RackHouse Connect](https://www.rackhouseconnect.com/) 
